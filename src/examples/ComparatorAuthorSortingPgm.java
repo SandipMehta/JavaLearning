@@ -48,6 +48,5 @@ public class ComparatorAuthorSortingPgm {
            au.getAuAge());       
      } 
 	System.out.println("****************************************");
-
 	}
 }

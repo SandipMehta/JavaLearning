@@ -11,7 +11,7 @@ public class ExampleMain {
 		// TODO Auto-generated method stub
 
 		// Arraylist example call
-		// ArrayListExa arralist = new ArrayListExa();
+		 ArrayListExa arralist = new ArrayListExa();
 
 		/* Arraylist initialize & size */
 
@@ -22,7 +22,7 @@ public class ExampleMain {
 		// arralist.arraylistExaForloop();
 
 		/* Arraylist Sorting */
-		// arralist.araylistExaSort();
+		 arralist.araylistExaSort();
 
 		/* Array List Sorting for multiple fields using COMPARABLE Interface */
 		// arralist.arraylistsortComparableExa();
@@ -54,9 +54,34 @@ public class ExampleMain {
 		
 		// Using HASHSET 
 		
-		HashSetExample hse = new HashSetExample();
-		hse.hashSetExampleBook();
-		hse.linkedhashSetExa();
+		//HashSetExample hse = new HashSetExample();
+		//hse.hashSetExampleBook();
+		//hse.linkedhashSetExa();
+		//hse.treeSetExample();
+		
+		//Using QUEUE
+		
+		//JavaQueueExample jqe= new JavaQueueExample();
+		//jqe.priorityQueueExample();
+		//jqe.priorityQueueBookExample();
+		//jqe.arrayDeQueueBookExample();
+		
+		// MAP INTERFACE
+		
+		//MapInterfaceExample mfe = new MapInterfaceExample();
+		//mfe.hashMapExample();
+		//mfe.hashMapBookExample();
+		
+		//ENUM Example
+				
+		//EnumSetExample ese = new EnumSetExample();
+		//ese.enumSetExampleDays();
+		//ese.enumSetExampleBooks();
+		
+		// PROPERTIES example
+		
+		//PropertiesExample pe = new PropertiesExample();
+		//pe.readDataProperties();
 		
 	}
 }
